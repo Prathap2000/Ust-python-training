@@ -1,0 +1,5 @@
+random.randint for int
+random.uniform for flot
+for the int the base is 10 if we need to modify use the s=int(s,base)
+
+need to llok on chaining in the if condition 
