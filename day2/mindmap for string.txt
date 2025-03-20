@@ -1,0 +1,8 @@
+string :-> substring--> like slice,reverse
+string-->trans and format -->makestranse,format
+string-->isinstance on string --> is upper,lower,alpnum,is alpnum,is digit
+string -->string modification --> replace opertaion
+string --> string concatination --> str1 + str2
+string --> string on opertaion --> str*3 
+immutable
+

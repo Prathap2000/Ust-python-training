@@ -1,0 +1,32 @@
+list is mutable by nature nad it collection of objects 
+it allows -ve index
+it can also allows the slice(sunscripting)
+list.append add the lements to the end
+list.insert(index,item) it will add to mentioned possition 
+list.extend(second list) it will combine both list1 and list2
+reveresed(list) give the list with reverse but not the change original same for sorted()
+list.reverse() and sort() will do it in the original list 
+
+
+list nad tuplesimilar but not same
+TUPLE IS IMMUTALE   
+access through the index
+it can be access by the slice
+
+inbuild in list and tuple 
+
+max(list)
+min 
+any(list)  it will find any non zero values present in the list
+all(list) it will check all the values in the list is the non zero values 
+
+enumerate will give me the hash key for each values in the list 
+ord(char) will give the asscic values of each char 
+
+ord(char) will give the asscic values of each char 
+done with all the task 
+ord(char) will give the asscic values of each char 
+
+notes ----------------------------- for loops 
+
+for and while loops in the python 
