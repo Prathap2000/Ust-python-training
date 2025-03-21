@@ -1,0 +1,14 @@
+use tab for the indentation 
+dunders variables that starts with two __ and ends with __ i.e __all__
+dunders are used to indicate another developer that his variables are in protected mode dont change anything in this
+
+need to follow this variable naming convention:
+ need to me meaningful name it helps to understand the use of variable 
+ link for good code:- 
+five thing need to follow
+ use  comments 
+ and docstring in program
+ self documentation name for all class and function variable
+ structure of code 
+ avoid deep nesting 
+ 
