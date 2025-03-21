@@ -12,3 +12,7 @@ five thing need to follow
  structure of code 
  avoid deep nesting 
  
+ lambda function 
+ function used def for creation
+ function name <input>:<output>
+ its an hiden one it will do user created it is an inbuilde function
