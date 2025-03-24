@@ -16,3 +16,7 @@ five thing need to follow
  function used def for creation
  function name <input>:<output>
  its an hiden one it will do user created it is an inbuilde function
+# filter function ,filter(<function>,<iterator>) --> <filtered-collection>
+p2=filter(primecheker,range(2,50))
+p2
+# map function ,map(<function>,<iterator>) --> <collection>
