@@ -1,0 +1,7 @@
+#syntax: file_obj=open(file_name[,access_mode][,Buffering])
+# file_obj.close() after all the file opertaion done need to end uo with closing the file#
+#read() this is used to read the file and get all the read content from as string
+#readline() it is used to read the single line
+#write() it is used to write the content into the the file
+#writelines() is used to write the line in to the file
+# sys is build in module for sys.stdin,sys.stdout,sys.stderr ,sys.argv(its allows to provide comdline argument )
