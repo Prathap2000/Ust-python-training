@@ -1,0 +1,15 @@
+#metachar refere the to build the re exps
+# . stands for any charcter
+#[...] the square brackets used to build a charecter class
+[^..]  the ^ it is used to -ve charcter class
+\ it is used to impliment the special eanig char like *+- are in impliment \*,\+,\-,\/
+| is used used to matc h multiple match alternativelly
+
+#metadata 4.o quantifiers
+# * for zero or more char for previous char 
+# + repaeacting previos char 1 or more
+# ? the previous char apper only one or zero
+# {n}  previous char apper exactly n times
+# {m,n} the previous apper exactly b/w m,n
+#{ m, } {, n} the previous apper exatly m or more then m , max of n time 
+#{..} use for alteraion
