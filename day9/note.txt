@@ -1,0 +1,45 @@
+if the program have the following points its called oops based program oropps implimented program
+ reausability
+ enhancemenet and upgradability scalability
+ modularity
+ testability
+ usability
+ redundancy
+ protection of data from accidental changes
+ maintainability
+ robust
+
+understand the main prespective 
+oops is used to combine both data and the relevent function into the single unit(entity)
+
+
+understanding the class
+
+encapsulation :
+proving public data and hiding the implementation details
+
+inheritance:
+    create the new class with extends the proprtites of  parent 
+polymorphism:
+    it means that meaning of opertaion depends on the obj being operated on.
+class in python:    
+    everything in the python is am object 
+    class needed to generting multiple obj instance
+constructor:
+    is execute at the beining on object only once
+    it automatically called the when obj is created
+    the constructor id defined using __init__
+class varibale:
+    varibale inside the call and they workrd as global variable for the class function
+instance variable:
+
+method:
+    setter
+    getter
+the self argument:
+accessing the method using .(dot) opertaion
+
+
+
+
+
