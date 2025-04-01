@@ -1,0 +1,6 @@
+super class - parent classs
+subclass is the calss that cretae using the super class propertities
+action on the child override the parent action
+
+method override
+a sunclass can override one or more action in the parent
