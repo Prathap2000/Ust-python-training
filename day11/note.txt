@@ -1,0 +1,1 @@
+here the display_info is act as the poly because it used for diff for the both car and the etric both but it have the diff information to the display
