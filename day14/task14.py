@@ -11,5 +11,5 @@ def requires_admin(func):
 def delete_data(user_role):
     print("Data deleted.")
 
-delete_data(user_role="admin")      # Allowed
-delete_data(user_role="guest")
+delete_data("admin")      # Allowed
+delete_data("guest")
