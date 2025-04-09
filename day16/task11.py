@@ -29,3 +29,4 @@ if __name__ == "__main__":
     print("p1 == p3:", p1 == p3)
     print("p1 < p2:", p1 < p2)
     print("p2 >= p4:", p2 >= p4)
+    print("p2 == p4:", p2 == p4)
