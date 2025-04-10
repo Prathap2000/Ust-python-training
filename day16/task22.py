@@ -23,9 +23,9 @@ class Student:
 
 # Create a list of Student objects with sample data
 students_data = [
-    Student("Alice", 101, {"Math": 92, "Science": 88, "English": 95}),
-    Student("Bob", 102, {"Math": 78, "Science": 85, "History": 90}),
-    Student("Charlie", 103, {"Physics": 80, "Chemistry": 75, "Computer": 98})
+    Student("prathap", 101, {"Math": 92, "Science": 88, "English": 95}),
+    Student("ibrahim", 102, {"Math": 78, "Science": 85, "History": 90}),
+    Student("kiran", 103, {"Physics": 80, "Chemistry": 75, "Computer": 98})
 ]
 
 # Serialize and save the list to students.pkl
