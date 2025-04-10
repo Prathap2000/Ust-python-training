@@ -11,7 +11,7 @@ class TestStudent(unittest.TestCase):
 
     def test_student_str(self):
         student = Student(2, "Rahul", 22, "B")
-        expected_str = "ID: 2, Name: Rahul, Age: 22, Grade: B"
+        expected_str = "ID: 2, Name: mahesh, Age: 22, Grade: B"
         self.assertEqual(str(student), expected_str)
 
     def test_student_to_dict(self):
