@@ -13,7 +13,7 @@ class TestStorage(unittest.TestCase):
             os.remove(self.filename)
 
     def test_save_and_load(self):
-        data_to_save = [{'student_id': 1, 'name': "Judy", 'age': 22, 'grade': "B"}]
+        data_to_save = [{'student_id': 1, 'name': "Divya", 'age': 22, 'grade': "B"}]
         self.storage.save(data_to_save)
         loaded_data = self.storage.load()
         self.assertEqual(loaded_data, data_to_save)
@@ -31,7 +31,7 @@ class TestStorage(unittest.TestCase):
 
     def test_load_invalid_json(self):
         with open(self.filename, 'w') as f:
-            f.write("[{'student_id': 1, 'name': 'Kelly', 'age': 20, 'grade': 'A'},]") # Trailing comma makes it invalid
+            f.write("[{'student_id': 1, 'name': 'Prakash', 'age': 20, 'grade': 'A'},]") # Trailing comma makes it invalid
         loaded_data = self.storage.load()
         self.assertEqual(loaded_data, [])
 
