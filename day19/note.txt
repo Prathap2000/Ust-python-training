@@ -1,0 +1,4 @@
+django-admin startproject firstwebproject  --- command to create the django web app
+python manage.py runserver --- to run the django 
+python manage.py startapp (application name){python manage.py startapp 
+a1} --- is also used to craete  the django application
